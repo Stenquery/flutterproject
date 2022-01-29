@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 
+//hahahahah i am a software engineer
+//There is to much way to walk 
+//We are at just begining
 void main() { //const MyApp()
   runApp(MaterialApp(
     home: MyApp()
